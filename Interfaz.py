@@ -28,3 +28,4 @@ ventana.configure(background= 'dark turquoise')
 el = tk.Label(ventana,text="Password:",bg="pink",fg="white")
 el.pack(padx=5,padv=5,ipadx=5,ipadv=5)
 boton=tk.Button(ventana,text="Nueva Ventana",fg="blue",commmand=abrirventana)
+
